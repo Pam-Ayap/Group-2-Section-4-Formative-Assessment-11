@@ -1,20 +1,9 @@
 # "Formative Assessment 11: Mixed-Design Repeated Measures ANOVA"
 ## "BIO2105 - Group 2 - Biostatistics"
 ### "Dhen Gamido, Margaret Domingo, Phoebe Ferrer, Princess Ayap, Yvonne Pepito"
-"`r Sys.Date()`"
+"December 22, 2026"
 
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(
-  echo = TRUE,
-  warning = FALSE,
-  message = FALSE,
-  fig.width = 8,
-  fig.height = 5,
-  fig.align = "center"
-)
-```
 
 # 1. Introduction and Research Objectives
 
