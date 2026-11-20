@@ -1,0 +1,8 @@
+1. Load the rats dataset from the nlmm package.
+
+2. Inspect structure (str()), dimensions (dim()), and initial rows (head()).
+
+3. Convert id, trt, and time into factor variables with explicit labels (Control, Thiouracil, Thyroxin for treatment; Week 0 through Week 4 for time).
+
+3 Guide Question
+Explain why the dataset is in long format and why subject IDs (id) are required for repeated-measures ANOVA.
