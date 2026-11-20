@@ -1,14 +1,8 @@
-title: "Formative Assessment 11: Mixed-Design Repeated Measures ANOVA"
-subtitle: "BIO2105 - Group 2 - Biostatistics"
-author: "Dhen Gamido, Margaret Domingo, Phoebe Ferrer, Princess Ayap, Yvonne Pepito"
-date: "`r Sys.Date()`"
-output:
-  html_document:
-    toc: true
-    toc_float: true
-    theme: flatly
-    highlight: tango
-    code_folding: show
+# "Formative Assessment 11: Mixed-Design Repeated Measures ANOVA"
+## "BIO2105 - Group 2 - Biostatistics"
+### "Dhen Gamido, Margaret Domingo, Phoebe Ferrer, Princess Ayap, Yvonne Pepito"
+"`r Sys.Date()`"
+
 ---
 
 ```{r setup, include=FALSE}
